@@ -50,6 +50,10 @@ Now the project should be running on http://127.0.0.1:8000/
 
 ## Setting up the react app
 
+
+cd frontend
+nano or vim .env
+
 **.env file content for backend url**
 ```
 REACT_APP_BASE_URL = http://127.0.0.1:8000
